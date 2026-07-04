@@ -9,7 +9,7 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love elephants.
 
-- 📫 Reach me: [linkedin][linkedin]
+- 📫 Reach me: [linkedin][https://www.linkedin.com/in/mduduzi-ndhlovu/]
 
 ### Tool belt:
 
