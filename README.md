@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Mdu 👋</h1>
-<h3 align="center">Developer @ HubSpot</h3>
+<h3 align="center">Senior Developer @ HubSpot</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/CCNA-Certified-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
